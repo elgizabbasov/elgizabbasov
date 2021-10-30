@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elgizabbasov
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Unity, C#, and Azure
 - 📫 Reach me through my email at elgizabbasov2001@gmail.com
 
 <!---

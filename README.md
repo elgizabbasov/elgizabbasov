@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elgizabbasov
-- 🌱 I’m currently learning Unity, and Azure
+- 🌱 I’m currently learning Unity and Azure
 - 📫 Reach me through my email at elgizabbasov2001@gmail.com
 
 ![Elgiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=elgizabbasov&show_icons=true&theme=radical)

@@ -9,4 +9,4 @@ elgizabbasov/elgizabbasov is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-![Metrics](https://github.com/elgizabbasov/elgizabbasov/blob/main/github-metrics.svg)
+![Metrics](https://metrics.lecoq.io/elgizabbasov)

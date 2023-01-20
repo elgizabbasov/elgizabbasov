@@ -1,4 +1,4 @@
-Hi! I am a Software Engineering student involved in web development, CI/CD practices (i.e. DevOps pipelines), and full SDLC of software projects such as GUI, and CLI applications mainly in Python, C#, and JavaScript. Enjoy exploring operating systems, and have experience with Ubuntu via terminal (WSL) and VMs.
+Hi! I am a Software Engineering student involved in web development, CI/CD practices (i.e. DevOps pipelines), and full SDLC of software projects such as GUI, and CLI applications mainly in Python, C#, and JavaScript. Enjoy exploring operating systems, and have experience with Ubuntu.
 
 Learning Go and TypeScript 👨‍💻
 

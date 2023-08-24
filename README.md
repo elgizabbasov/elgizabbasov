@@ -1,4 +1,4 @@
-Hi! I am a Software Engineering student @ UofC working with web development, CI/CD practices (i.e. DevOps pipelines), and full SDLC of software projects including GUI/CLI applications mainly in Python, C#, and JavaScript. Enjoy exploring operating systems, and have experience with Ubuntu.
+Hi! I am a Software Engineering graduate from UofC working on web development, CI/CD, and complete SDLC of web applications including GUI/CLI apps mainly in Python, C#, and JavaScript. Enjoy exploring operating systems, and have experience with Game Development.
 
 Learning Go, Next.js, and TypeScript 👨‍💻
 
